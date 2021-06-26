@@ -5,6 +5,6 @@ To know more aout me check out my profoio website: https://elyanan.netlify.app
 
 - 🔭 I’m currently working on Web Projects
 - 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on project
-- 📫 Contact me through my email:elyanan.wph@gmail.com
+- 👯 I’m looking to collaborate on Web Project
+- 📫 Contact me through my email: elyanan.wph@gmail.com
 - ⚡ Fun fact: I am 12 year old
