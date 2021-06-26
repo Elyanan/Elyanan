@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Elyanan Wondwossen. I am 12 year old 6th grade grade student from Addis Ababa, Ethiopia. I am a python, c# and javascript programmer.
-To know more aout me check out my portfolio website: https://elyanan.netlify.app
+My name is Elyanan Wondwossen. I am 12 year old 6th grade student from Addis Ababa, Ethiopia. I am a python, c# and javascript programmer.
+To know more about me check out my portfolio website: https://elyanan.netlify.app
 
 - 🔭 I’m currently working on Web Projects
 - 🌱 I’m currently learning C#
