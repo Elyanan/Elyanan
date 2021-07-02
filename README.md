@@ -7,4 +7,4 @@ To know more about me check out my portfolio website: https://elyanan.netlify.ap
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on Web Project
 - 📫 Contact me through my email: elyanan.wph@gmail.com
-- Check out my twitter for daily tips and tricks: https:// <a href="https://www.twitter.com/ElyananW">@ElyananW</a>
+- Check out my twitter for daily tips and tricks: <a href="https://www.twitter.com/ElyananW">@ElyananW</a>
